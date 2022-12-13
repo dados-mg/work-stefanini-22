@@ -2,9 +2,9 @@
 
 Esse documento é um registro das necessidades do cliente[^1] identificadas para fins das intervenções no [Portal de Dados Abertos](https://www.dados.mg.gov.br) (PdA) no âmbito do subprojeto “Melhorias no Portal de Transparência e de Dados Abertos do Estado de Minas Gerais” que consta do projeto “Fortalecimento e reestruturação tecnológica da Controladoria Geral do Estado (CGE)”.
 
-Atualmente os dados categorizado em nível de compartilhamento amplo[^2] no âmbito da Administração Pública direta, autárquica e fundacional do Poder Executivo Estadual devem obrigatoriamente ser catalogados em formato aberto no PdA por força do [art. 27, § 3º do Decreto nº 48.383/2022](legislacao.md#decreto-48383-de-18032022).
+Atualmente os dados categorizados em nível de compartilhamento amplo[^2] no âmbito da Administração Pública direta, autárquica e fundacional do Poder Executivo Estadual devem obrigatoriamente ser catalogados em formato aberto no PdA por força do [art. 27, § 3º do Decreto nº 48.383/2022](legislacao.md#decreto-48383-de-18032022).
 
-Esse dispositivo reforçou a intenção do PdA, lançado em 2020[^3], de ser _ponto de referência para busca e acesso a dados públicos_ sobre assuntos de interesse da sociedade, como saúde, educação, segurança pública, assistência social, esportes, turismo. 
+Esse dispositivo reforçou a intenção do PdA, lançado em 2020[^3], de ser _ponto de referência para busca e acesso a dados públicos_ sobre assuntos de interesse da sociedade, como: saúde, educação, segurança pública, assistência social, esportes, turismo. 
 Em outras palavras, o PdA visa endereçar as questões de _findability_ e _discoverability_ dos dados.
 
 ![Atores no ecossistema de dados abertos. Fonte: @okbr2021](assets/images/20220503T210959.png)
@@ -17,9 +17,9 @@ As necessidades deste projeto estão relacionadas as etapas de produção, publi
 
 No [Planejamento Estratégico 2020-2023 da CGE](https://cge.mg.gov.br/phocadownload/Planejamento%20Estratgico%202020-2023%20-%20final.pdf#page=30) as seguintes ações foram inseridas no Eixo _TRANSPARÊNCIA E FORTALECIMENTO DA INTEGRIDADE_ em relação a temática dados abertos:
 
-- Desenvolvimento de serviço/aplicativo para automação da carga de dados no Portal de Dados Abertos
-- Condução de avaliações de qualidade dos dados publicados via modelos de maturidade de publicação de dados abertos
-- Promoção de iniciativas de engajamento e criação de "data literacy" entre usuários (incluindo servidores públicos)
+- Desenvolvimento de serviço/aplicativo para automação da carga de dados no Portal de Dados Abertos;
+- Condução de avaliações de qualidade dos dados publicados via modelos de maturidade de publicação de dados abertos;
+- Promoção de iniciativas de engajamento e criação de "data literacy" entre usuários (incluindo servidores públicos).
 
 Essas ações indicam um compromisso com a adoção de um processo de abertura de dados automatizado e que possua controle de qualidade dos dados publicados.
 
