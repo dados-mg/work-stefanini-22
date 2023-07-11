@@ -11,7 +11,7 @@ Em outras palavras, o PdA visa endereçar as questões de _findability_ e _disco
 
 Como forma de reduzir os custos de transação ao longo do ciclo de vida dos dados abertos, a CGE adotou[^4] o padrão de metadados [_Frictionless_](https://frictionlessdata.io/) para documentar conjuntos de dados. 
 Dados documentados de acordo com esse padrão são chamados de _data packages_.
-As necessidades deste projeto estão relacionadas as etapas de produção, publicação, visualização e acesso de [_data packages_](glossario.md#data-package) por parte dos usuários (produtores e consumidores) do [Portal de Dados Abertos](https://dados.mg.gov.br/) (PdA).
+As necessidades deste projeto estão relacionadas as etapas de produção, publicação, visualização e acesso de [_data packages_](https://specs.frictionlessdata.io/data-package/) por parte dos usuários (produtores e consumidores) do [Portal de Dados Abertos](https://dados.mg.gov.br/) (PdA).
 
 ## Motivação
 
@@ -25,7 +25,23 @@ Essas ações indicam um compromisso com a adoção de um processo de abertura d
 
 ![](assets/images/20220428T150210.drawio.svg)
 
-O contexto detalhado, incluindo discussão das escolhas tecnológicas, estão disponíveis [neste link](motivacao-contexto.md).
+## Navegando em nosso documento
+
+Este material foi criado com auxílio da ferramenta mkdocs, mais especificamente com um de seus temas customizados chamado [Material](https://squidfunk.github.io/mkdocs-material/).
+No menu superior, ou `Navbar` para os mais íntimos, é possível encontrar opções como [Atas de Reunião](atas_de_reuniao/20221121_configuracoes_inicial_documentacao_windows/) e [Estórias de usuário](estorias_de_usuarios/sprint_02/01_upload_de_arquivos_recursos/):
+
+![site_navbar](https://imgur.com/OQrf9Ee.png)
+
+No canto superior direito deste mesmo menu, conforme demonstrado na figura acima, é possível acessar, também, o link para o [repositório GitHub do projeto](https://github.com/transparencia-mg/work-stefanini), bem como ferramenta de busca (muito fácil de utilizar e com ótima capacidade de encontrar o que precisamos).
+
+Na parte inferior da página, ou `footer` para os mais íntimos, temos acesso a alguns links muito úteis como:
+
+- :fontawesome-solid-diagram-project: [Github Project Board](https://github.com/orgs/transparencia-mg/projects/2)
+- :fontawesome-brands-youtube: [Playlist Youtube](https://www.youtube.com/playlist?list=PLCbgbVHsUygAIzR_jxHEUt0NRc-MNF7cy)
+
+![site_navbar](https://imgur.com/nsyqmhy.png)
+
+Encontrou algo que não agradou ou deseja fazer alguma sugestão? Ótimo, você pode abrir um [issue](https://github.com/transparencia-mg/work-stefanini/issues) ou até mesmo iniciar uma [discussão](https://github.com/transparencia-mg/work-stefanini/discussions)!
 
 [^1]: Em outras palavras, esse documento representa o backlog do produto, entregável da Ideação - etapa que tem como objetivo capturar e priorizar necessidades, olhando-as com maior clareza e profundidade, imergindo no problema para compreender o contexto e a perspectiva do cliente - que de acordo com o item 1.1.6.2 do Termo de Referência deve ser realizada pela CONTRATANTE. 
 

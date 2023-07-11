@@ -1,41 +1,40 @@
-# Modelo Casos de Teste 
+# Casos de Teste
 
-Casos de teste para estória de usuário [nome da estória](link_para_estoria).
+Registra os testes de todas as regras negociais pensadas para a a estória de usuário [XXXXXX](), bem como testes adicionais previstos abaixo:
 
-## Casos de Teste
+- **CT 001.001 – XXXXXX:** XXXXX.
 
-- **CT 001 –** Nome do caso de teste
-      - **Complexidade[^¹]:** `verificar o rodapé`
-      - **Necessidade de massa de Teste:** `S/N`
-      - **Funcionalidade associada ao CT:** `Descreve a funcionalidade que deve ser testada`
-      - **Resultado Esperado:** `é o resultado ideal que deve ser alcançado uma vez que o caso de teste foi executado`
-      - **Resultado final:** ` é resultado que é obtido após a realização do teste.`
-      - **Observação:** `Observação sobre o teste realizado ou a massa de teste utilizada`
-      - **Necessita ser retestado?** `S/N`
-      - **Evidências:** `é a evidência de que o teste foi executado através de vídeo`
-        - [2022MMDD_vX_responsável_CTXX](Link_para_video_youtube)
+- **CT 001.002 – XXXXXX:** XXXXX.
 
-- **CT 002 –** Nome do caso de teste
-      - **Complexidade[^¹]:**
-      - **Necessidade de massa de Teste:**
-      - **Funcionalidade associada ao CT:**
-      - **Resultado Esperado:**
-      - **Resultado final:**
-      - **Observação:**
-      - **Necessita ser retestado?**
-      - **Evidências:**
-        - [2022MMDD_vX_responsável_CTXX](Link_para_video_youtube)
+## Testes realizados pela Stefanini em ambiente prórpio
 
-- **CT 003 –** Nome do caso de teste
-      - **Complexidade[^¹]:**
-      - **Necessidade de massa de Teste:**
-      - **Funcionalidade associada ao CT:**
-      - **Resultado Esperado:**
-      - **Resultado final:**
-      - **Observação:**
-      - **Necessita ser retestado?**
-      - **Evidências:**
-        - [2022MMDD_vX_responsável_CTXX](Link_para_video_youtube)
+### Resultado 001
+- **Data:** XX/XX/2023
+- **Versão do pacote:** [0.XX](https://pypi.org/project/ckanext-datapackage-creator/0.0.XX/)
+- **Necessita ser retestado:** XXX
+- **Itens testados:** Documentados em comentário do issue [XXXXXX]()
+- **Evidências:**    
+    - [Vídeo Gravado]()
+    - [Issues relacionados]():
 
+## Testes realizados pela equipe DCTA em ambiente próprio 
 
-[^¹]: Muito Simples, Simples, Médio, Complexo, Muito Complexo.
+### Resultado 001
+- **Data:** XX/XX/2023
+- **Versão do pacote:** [0.XX](https://pypi.org/project/ckanext-datapackage-creator/0.0.XX/)
+- **Necessita ser retestado:** XXX
+- **Itens testados:** Documentados em comentário do issue [XXXXXX]()
+- **Evidências:**    
+    - [Vídeo Gravado]()
+    - [Issues relacionados]():
+    
+## Testes realizados pela equipe DCTA em ambiente da CGE 
+
+### Resultado 001
+- **Data:** XX/XX/2023
+- **Versão do pacote:** [0.XX](https://pypi.org/project/ckanext-datapackage-creator/0.0.XX/)
+- **Necessita ser retestado:** XXX
+- **Itens testados:** Documentados em comentário do issue [XXXXXX]()
+- **Evidências:**    
+    - [Vídeo Gravado]()
+    - [Issues relacionados]():
